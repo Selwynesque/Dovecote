@@ -22,3 +22,14 @@ package-lock.json
 Thumbs.db
 screenshots/
 !docs/screenshots/
+
+# Dovecote / Dove safety additions
+.env.*
+*.sqlite
+*.sqlite3
+sessions/
+memory/
+secrets/
+tokens/
+*.pem
+*.key
