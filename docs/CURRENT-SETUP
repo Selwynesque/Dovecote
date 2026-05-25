@@ -1,0 +1,52 @@
+# Current Setup
+
+This file documents what is running today before Dovecote changes anything.
+
+## Current project
+
+Base project: codependentai/resonant
+
+## Local runtime
+
+Host machine:
+- TBD
+
+Local app URL:
+- TBD
+
+Backend port:
+- TBD
+
+Frontend port:
+- TBD
+
+Startup command:
+- TBD
+
+Process manager:
+- TBD
+
+## Integrations currently used
+
+- Web UI: TBD
+- Discord: TBD
+- Telegram: TBD
+- ElevenLabs / voice: TBD
+- Memory database: SQLite / resonant.db
+- Claude Code / Agent SDK: TBD
+
+## Files that must be preserved
+
+- resonant.db
+- CLAUDE.md
+- .env files
+- channel configuration
+- voice configuration
+- memory/session data
+
+## Things we do not change first
+
+- Runtime behavior
+- Memory schema
+- Channel bindings
+- Claude Code/Agent SDK call path
